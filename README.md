@@ -1,2 +1,3 @@
 # Bkebi-GC-Release
 Bkebi-GC
+**[Bkebi 1.1.1 CN&OS]（https://cdn.discordapp.com/attachments/1072831171639115796/1081269652040188127/bkebi-1.1.1.1454-d8f30b1e-rel.zip）**
